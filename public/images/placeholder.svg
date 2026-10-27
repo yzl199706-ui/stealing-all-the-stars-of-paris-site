@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#d6ceb2"/><stop offset=".48" stop-color="#e2c986"/><stop offset="1" stop-color="#a58152"/></linearGradient>
+    <radialGradient id="light" cx=".18" cy=".17" r=".64"><stop stop-color="#fff6d7" stop-opacity=".9"/><stop offset="1" stop-color="#e4c57e" stop-opacity="0"/></radialGradient>
+    <filter id="soft"><feTurbulence type="fractalNoise" baseFrequency=".013" numOctaves="3" result="noise"/><feDisplacementMap in="SourceGraphic" in2="noise" scale="18"/></filter>
+  </defs>
+  <rect width="1080" height="1920" fill="url(#sky)"/>
+  <rect width="1080" height="1400" fill="url(#light)"/>
+  <g opacity=".45" filter="url(#soft)">
+    <path fill="#a3ac8b" d="M0 760C210 630 370 760 540 690s280-120 540-8v540H0Z"/>
+    <path fill="#c8a66a" d="M0 980c170-110 364-130 550-39s355 72 530-32v1011H0Z"/>
+    <path fill="#b7837c" opacity=".22" d="M0 1250c190-94 407-70 580 24s349 74 500-20v666H0Z"/>
+  </g>
+  <g stroke="#f1dc9d" stroke-linecap="round" opacity=".55">
+    <path d="M70 1910 144 1274M178 1915l31-590M273 1912l94-680M405 1920l-12-628M520 1918l112-708M682 1915l-31-634M798 1915l95-715M944 1920l-16-656M1030 1916l-86-617" stroke-width="8"/>
+    <path d="m144 1410-32-36m38 80 39-39m18 102-37-29m40 79 44-31m114-134-37-40m42 83 45-35m-32 102-35-26m31 83 49-37m173-147-44-34m48 77 48-30m-42 94-44-22m43 80 52-29m197-141-48-34m52 75 44-28m-30 96-47-23m44 75 49-34m163-142-47-34m51 78 43-32m-35 98-48-23m41 77 51-31" stroke-width="5"/>
+  </g>
+</svg>
