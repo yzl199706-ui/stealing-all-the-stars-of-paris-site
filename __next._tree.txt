@@ -1,8 +1,0 @@
-:HL["/stealing-all-the-stars-of-paris-site/_next/static/chunks/0ca70k6f-7gs6.css","style"]
-:HL["/stealing-all-the-stars-of-paris-site/_next/static/chunks/3ty5na0i8b6tc.css","style"]
-:HL["/stealing-all-the-stars-of-paris-site/_next/static/chunks/1xe_2352ghhcv.css","style"]
-:HL["/stealing-all-the-stars-of-paris-site/_next/static/media/01e4147cff8141ee-s.p.3huc2loe0ie8a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/stealing-all-the-stars-of-paris-site/_next/static/media/8bd76523131fa0fc-s.p.1pvupmngxrt5z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/stealing-all-the-stars-of-paris-site/_next/static/media/f112ed7f0b91582f-s.p.384qhh3n5pf8p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"D-w_0cSfY-cYKE3jC_I9y","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
